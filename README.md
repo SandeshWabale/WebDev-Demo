@@ -5,5 +5,6 @@ This is a  demo for Git and Github class.
 Shradha Khapra
 
 # Student
-Sandy 
+Sandesh Wable
+
 
